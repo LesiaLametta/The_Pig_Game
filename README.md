@@ -5,7 +5,7 @@
 - In each turn, a player rolls the dice as many times as he whishes. Each result gets added to his round score
 - But if the player rolls a 1, all his round score gets lost. After that, it's the next player's turn
 - The player can choose to 'Hold', which means that his round score gets added to his global score. After that, it's the next player's turn
-- The first player to reach 100 points on GLOBAL score wins the game
+- The first player to reach 100 points on global score wins the game
 - There is an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100
 
 
